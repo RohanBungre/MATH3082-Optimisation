@@ -1,4 +1,4 @@
-# MATH3082-Optimisation
+# MATH3082 Optimisation
 
 ## Module Description
 
